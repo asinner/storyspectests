@@ -1,0 +1,14 @@
+# Logfile created on 2014-09-15 23:13:41 -0700 by logger.rb/36483
+I, [2014-09-15T23:13:41.659888 #91607]  INFO -- : 0:  rake (10.3.2) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.3.2.gemspec
+I, [2014-09-15T23:13:41.660447 #91607]  INFO -- : 0:  mime-types (2.3) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/mime-types-2.3.gemspec
+I, [2014-09-15T23:13:41.660818 #91607]  INFO -- : 0:  mini_portile (0.6.0) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/mini_portile-0.6.0.gemspec
+I, [2014-09-15T23:13:41.661167 #91607]  INFO -- : 0:  nokogiri (1.6.3.1) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/nokogiri-1.6.3.1.gemspec
+I, [2014-09-15T23:13:41.661500 #91607]  INFO -- : 0:  rack (1.5.2) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-09-15T23:13:41.661833 #91607]  INFO -- : 0:  rack-test (0.6.2) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/rack-test-0.6.2.gemspec
+I, [2014-09-15T23:13:41.662166 #91607]  INFO -- : 0:  xpath (2.0.0) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/xpath-2.0.0.gemspec
+I, [2014-09-15T23:13:41.662501 #91607]  INFO -- : 0:  capybara (2.4.1) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/capybara-2.4.1.gemspec
+I, [2014-09-15T23:13:41.662834 #91607]  INFO -- : 0:  cliver (0.3.2) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/cliver-0.3.2.gemspec
+I, [2014-09-15T23:13:41.663187 #91607]  INFO -- : 0:  multi_json (1.10.1) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.10.1.gemspec
+I, [2014-09-15T23:13:41.663523 #91607]  INFO -- : 0:  websocket-driver (0.3.4) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/websocket-driver-0.3.4.gemspec
+I, [2014-09-15T23:13:41.663887 #91607]  INFO -- : 0:  poltergeist (1.5.1) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/poltergeist-1.5.1.gemspec
+I, [2014-09-15T23:13:41.664208 #91607]  INFO -- : 0:  bundler (1.5.1) from /Users/andrewsinner/.rvm/gems/ruby-2.0.0-p247/specifications/bundler-1.5.1.gemspec
